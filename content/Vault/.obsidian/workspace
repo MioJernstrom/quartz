@@ -1,0 +1,127 @@
+{
+  "main": {
+    "id": "4446c1cd7aae6682",
+    "type": "split",
+    "children": [
+      {
+        "id": "5766c1033e36fb87",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "beb5a52792e24039",
+    "type": "split",
+    "children": [
+      {
+        "id": "e987e73058d22454",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a2b972746ae61ee",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b733e0e7c2562f7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "89777b4f7890b339",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481
+  },
+  "right": {
+    "id": "c287b3dbab3b4397",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7d0bdbd425ede74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddb17e45c2c51e04",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a493b9348718ac97",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d160d22a031ad6fb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "5766c1033e36fb87",
+  "lastOpenFiles": [
+    "Hem.md",
+    "6🟢 Research/Koncept🌱🌲/Fysionomi.md",
+    "6🟢 Research/Referenser 📚/1789 Lavater.md",
+    "6🟢 Research/Referenser 📚/2008 Kamenskaya _ Kukharev.md",
+    "6🟢 Research/Koncept🌱🌲/Spelbara karaktärer upplevs i fyra olika lager.md",
+    "6🟢 Research/Koncept🌱🌲/Spelkaraktärer kan vara verktyg, docka eller mask.md",
+    "6🟢 Research/Koncept🌱🌲/Affordance.md",
+    "6🟢 Research/Koncept🌱🌲/Vad som är vackert är bra.md",
+    "6🟢 Research/Koncept🌱🌲/Nomotetiskt perspektiv på personlighet.md",
+    "6🟢 Research/Koncept🌱🌲/Trovärdighet baseras på specifika egenskaper.md"
+  ]
+}

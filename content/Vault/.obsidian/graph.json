@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "path:-\"Data/0 Deltagare\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Data/0 Deltagare\"",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
+      }
+    },
+    {
+      "query": "path:\"Data/1 Arketyper\"",
+      "color": {
+        "a": 1,
+        "rgb": 3684408
+      }
+    },
+    {
+      "query": "path:\"Data/2 Karaktärsbeskrivningar\"",
+      "color": {
+        "a": 1,
+        "rgb": 8940772
+      }
+    },
+    {
+      "query": "path:\"Data/3 Utseende\"",
+      "color": {
+        "a": 1,
+        "rgb": 30935
+      }
+    },
+    {
+      "query": "path:\"Data/4 Knytpunkter\"",
+      "color": {
+        "a": 1,
+        "rgb": 3684408
+      }
+    },
+    {
+      "query": "path:\"Data/5 Påståenden\"",
+      "color": {
+        "a": 1,
+        "rgb": 15213076
+      }
+    },
+    {
+      "query": "path:\"Data/6 Research/Koncept\"",
+      "color": {
+        "a": 1,
+        "rgb": 3684408
+      }
+    },
+    {
+      "query": "path:\"Data/6 Research/Referenser\"",
+      "color": {
+        "a": 1,
+        "rgb": 1492492
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 2.34583333333333,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 20,
+  "linkStrength": 0,
+  "linkDistance": 30,
+  "scale": 0.010806785777889077,
+  "close": false
+}
